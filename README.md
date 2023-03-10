@@ -1,7 +1,7 @@
 # sistem-informasi-klinik
-Sistem informasi klinik Asmara Loka
+Sistem Informasi Klinik Asmara Loka
 Berisi 4 Data Master : Dokter, Pasien, Obat dan Kamar
-Dengan 2 laporan : Laporan Ibat dan Rawat Inap Kamar
+Dengan 2 laporan : Laporan Obat dan Rawat Inap Kamar
 Meliputi Create, Read, Update dan Delete (CRUD)
 Serta report print
 
